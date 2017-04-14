@@ -1,3 +1,9 @@
+# Connect to internal HAL server and serve reports
+
+Connection details not in public repo
+
+----
+
 # Build a Website with Node.js
 
 Full project for the Build a Website with Node course. 
